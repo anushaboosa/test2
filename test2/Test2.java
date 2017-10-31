@@ -9,7 +9,7 @@ package test2;
  *
  * @author ADPrasad
  */
-public class Test2 {
+class Test2 {
 
     /**
      * @param args the command line arguments
